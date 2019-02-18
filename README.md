@@ -20,3 +20,5 @@ remote control's code in another repository.
 - Working with circuit boards
 - How to use sonar sensor to navigate and calculate distance
 - Working with IR sensors and light sensors
+- Writing basic C codes to control microcontrollers and other circuit components
+- Reading circuit schematics
