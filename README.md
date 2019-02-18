@@ -13,7 +13,7 @@ PIC16F886.c file is written by the company. I used their IDE MPLab to develop th
 I also programed another circuit board to use the Sumobot remotly when I don't get the chance to fight with other robots. I will post
 remote control's code in another repository.
 
-##What I Learned From This Project
+## What I Learned From This Project
 - Working with MPLab
 - Working with micro-controllers
 - Designing a fully automated robot
